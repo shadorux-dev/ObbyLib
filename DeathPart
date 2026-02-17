@@ -1,0 +1,3 @@
+local ObbyLib = require(script.Parent["ObbyLib"])
+
+ObbyLib.createDeathPart(game["Environment"]["DeathPart"])
